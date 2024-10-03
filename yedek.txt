@@ -1,0 +1,193 @@
+{/* DOZAJ-1 */}
+        <Grid>
+          <Grid display={'flex'} flexDirection={'row'} justifyContent={'center'}>
+            <Grid item>
+              <Silo width={'104px'} height={'184px'} color="#F0DE36" siloName="B201" seviye={50} />
+            </Grid>
+            <Grid item ml={1}>
+              <Silo width={'104px'} height={'184px'} color="#75C2F6" siloName="B202" seviye={97.5} />
+            </Grid>
+            <Grid item ml={1}>
+              <Silo width={'104px'} height={'184px'} color="#4E4FEB" siloName="B203" seviye={70} />
+            </Grid>
+            <Grid item ml={1}>
+              <Silo width={'104px'} height={'184px'} color="#1B6B93" siloName="B204" seviye={80} />
+            </Grid>
+            <Grid item ml={1}>
+              <Silo width={'104px'} height={'184px'} color="#F86F03" siloName="B205" seviye={30} />
+            </Grid>
+            <Grid item ml={1}>
+              <Silo width={'104px'} height={'184px'} color="#D8C4B6" siloName="B206" seviye={40} />
+            </Grid>
+            <Grid item ml={1}>
+              <Silo width={'104px'} height={'184px'} color="#F266AB" siloName="B207" seviye={20} />
+            </Grid>
+            <Grid item ml={1}>
+              <Silo width={'104px'} height={'184px'} color="#19A7CE" siloName="B208" seviye={100} />
+            </Grid>
+            <Grid item ml={1}>
+              <Silo width={'104px'} height={'184px'} color="#3E54AC" siloName="B209" seviye={90} />
+            </Grid>
+            <Grid item ml={1}>
+              <Silo width={'104px'} height={'184px'} color="#EB455F" siloName="B210" seviye={99.23} />
+            </Grid>
+            <Grid item ml={1}>
+              <Silo width={'104px'} height={'184px'} color="#F9F54B" siloName="B211" seviye={82} />
+            </Grid>
+            <Grid item ml={1}>
+              <Silo width={'104px'} height={'184px'} color="#332FD0" siloName="B212" seviye={0} />
+            </Grid>
+            <Grid item ml={1}>
+              <Silo width={'104px'} height={'184px'} color="#E14D2A" siloName="B213" seviye={78.5} />
+            </Grid>
+            <Grid item ml={1}>
+              <Silo width={'104px'} height={'184px'} color="#00FFD1" siloName="B214" seviye={23.1} />
+            </Grid>
+          </Grid>
+        </Grid>
+        {/* DOZAJ-2 */}
+        <Grid mt={10}>
+          <Grid display={'flex'} flexDirection={'row'} justifyContent={'center'}>
+            <Grid item>
+              <Silo width={'104px'} height={'184px'} color="#F86F03" siloName="B251" seviye={10} />
+            </Grid>
+            <Grid item ml={1}>
+              <Silo width={'104px'} height={'184px'} color="#F0DE36" siloName="B252" seviye={30} />
+            </Grid>
+            <Grid item ml={1}>
+              <Silo width={'104px'} height={'184px'} color="#75C2F6" siloName="B253" seviye={55} />
+            </Grid>
+            <Grid item ml={1}>
+              <Silo width={'104px'} height={'184px'} color="#4E4FEB" siloName="B254" seviye={23} />
+            </Grid>
+            <Grid item ml={1}>
+              <Silo width={'104px'} height={'184px'} color="#D8C4B6" siloName="B255" seviye={99} />
+            </Grid>
+            <Grid item ml={1}>
+              <Silo width={'104px'} height={'184px'} color="#1B6B93" siloName="B256" seviye={98} />
+            </Grid>
+            <Grid item ml={1}>
+              <Silo width={'104px'} height={'184px'} color="#19A7CE" siloName="B257" seviye={94} />
+            </Grid>
+            <Grid item ml={1}>
+              <Silo width={'104px'} height={'184px'} color="#F266AB" siloName="B258" seviye={86} />
+            </Grid>
+          </Grid>
+        </Grid>
+        {/* DOZAJ-3 */}
+        <Grid mt={10}>
+          <Grid display={'flex'} flexDirection={'row'} justifyContent={'center'}>
+            <Grid item>
+              <Silo width={'104px'} height={'184px'} color="#75C2F6" siloName="B271" seviye={23.1} />
+            </Grid>
+            <Grid item ml={1}>
+              <Silo width={'104px'} height={'184px'} color="#F0DE36" siloName="B272" seviye={43.2} />
+            </Grid>
+            <Grid item ml={1}>
+              <Silo width={'104px'} height={'184px'} color="#F86F03" siloName="B273" seviye={54.89} />
+            </Grid>
+            <Grid item ml={1}>
+              <Silo width={'104px'} height={'184px'} color="#4E4FEB" siloName="B274" seviye={56} />
+            </Grid>
+            <Grid item ml={1}>
+              <Silo width={'104px'} height={'184px'} color="#F266AB" siloName="B275" seviye={87.3} />
+            </Grid>
+            <Grid item ml={1}>
+              <Silo width={'104px'} height={'184px'} color="#1B6B93" siloName="B276" seviye={34.21} />
+            </Grid>
+
+            <Grid item ml={1}>
+              <Silo width={'104px'} height={'184px'} color="#D8C4B6" siloName="B277" seviye={45.23} />
+            </Grid>
+          </Grid>
+        </Grid>
+         {/* DOZAJ-4 */}
+        <Grid mt={10}>
+          <Grid display={'flex'} flexDirection={'row'} justifyContent={'center'}>
+            <Grid item>
+              <Silo width={'104px'} height={'184px'} color="#F0DE36" siloName="K101" seviye={88.2} />
+            </Grid>
+            <Grid item ml={1}>
+              <Silo width={'104px'} height={'184px'} color="#75C2F6" siloName="K102" seviye={23.1} />
+            </Grid>
+            <Grid item ml={1}>
+              <Silo width={'104px'} height={'184px'} color="#4E4FEB" siloName="K103" seviye={23.1} />
+            </Grid>
+            <Grid item ml={1}>
+              <Silo width={'104px'} height={'184px'} color="#1B6B93" siloName="K104" seviye={23.1} />
+            </Grid>
+            <Grid item ml={1}>
+              <Silo width={'104px'} height={'184px'} color="#F86F03" siloName="K105" seviye={23.1} />
+            </Grid>
+            <Grid item ml={1}>
+              <Silo width={'104px'} height={'184px'} color="#D8C4B6" siloName="K106" seviye={23.1} />
+            </Grid>
+            <Grid item ml={1}>
+              <Silo width={'104px'} height={'184px'} color="#F266AB" siloName="K107" seviye={23.1} />
+            </Grid>
+            <Grid item ml={1}>
+              <Silo width={'104px'} height={'184px'} color="#19A7CE" siloName="K108" seviye={23.1} />
+            </Grid>
+            <Grid item ml={1}>
+              <Silo width={'104px'} height={'184px'} color="#3E54AC" siloName="K109" seviye={23.1} />
+            </Grid>
+            <Grid item ml={1}>
+              <Silo width={'104px'} height={'184px'} color="#EB455F" siloName="K110" seviye={23.1} />
+            </Grid>
+            <Grid item ml={1}>
+              <Silo width={'104px'} height={'184px'} color="#F9F54B" siloName="K111" seviye={23.1} />
+            </Grid>
+            <Grid item ml={1}>
+              <Silo width={'104px'} height={'184px'} color="#332FD0" siloName="K112" seviye={23.1} />
+            </Grid>
+            <Grid item ml={1}>
+              <Silo width={'104px'} height={'184px'} color="#E14D2A" siloName="K113" seviye={23.1} />
+            </Grid>
+            <Grid item ml={1}>
+              <Silo width={'104px'} height={'184px'} color="#00FFD1" siloName="K114" seviye={23.1} />
+            </Grid>
+            <Grid item ml={1}>
+              <Silo width={'104px'} height={'184px'} color="#8BBCCC" siloName="K115" seviye={23.1} />
+            </Grid>
+          </Grid>
+        </Grid>
+         {/* DOZAJ-5 */}
+        <Grid mt={10}>
+          <Grid display={'flex'} flexDirection={'row'} justifyContent={'center'}>
+            <Grid item>
+              <Silo width={'104px'} height={'184px'} color="#F86F03" siloName="K176" seviye={23.1} />
+            </Grid>
+            <Grid item ml={1}>
+              <Silo width={'104px'} height={'184px'} color="#F0DE36" siloName="K177" seviye={23.1} />
+            </Grid>
+            <Grid item ml={1}>
+              <Silo width={'104px'} height={'184px'} color="#75C2F6" siloName="K178" seviye={23.1} />
+            </Grid>
+            <Grid item ml={1}>
+              <Silo width={'104px'} height={'184px'} color="#4E4FEB" siloName="K179" seviye={23.1} />
+            </Grid>
+            <Grid item ml={1}>
+              <Silo width={'104px'} height={'184px'} color="#D8C4B6" siloName="K180" seviye={23.1} />
+            </Grid>
+          </Grid>
+        </Grid>
+         {/* DOZAJ-8 */}
+        <Grid mt={10}>
+          <Grid display={'flex'} flexDirection={'row'} justifyContent={'center'}>
+            <Grid item>
+              <Silo width={'104px'} height={'184px'} color="#75C2F6" siloName="K171" seviye={23.1} />
+            </Grid>
+            <Grid item ml={1}>
+              <Silo width={'104px'} height={'184px'} color="#F0DE36" siloName="K172" seviye={23.1} />
+            </Grid>
+            <Grid item ml={1}>
+              <Silo width={'104px'} height={'184px'} color="#F86F03" siloName="K173" seviye={23.1} />
+            </Grid>
+            <Grid item ml={1}>
+              <Silo width={'104px'} height={'184px'} color="#4E4FEB" siloName="K174" seviye={23.1} />
+            </Grid>
+            <Grid item ml={1}>
+              <Silo width={'104px'} height={'184px'} color="#F266AB" siloName="K175" seviye={23.1} />
+            </Grid>
+          </Grid>
+        </Grid>

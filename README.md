@@ -1,1 +1,1 @@
-# Boyyem Silo Miktar ve Kapasitesini Hesaplayıp , Mamül ve Hammaddelere Verilen Renklerle Birlikte Hangi Siloda Hangi Mamül veya Hammadde'den Ne Kadar Var ve Miktar ve Kapasitesi Ne kadar Onu Görebildiğimiz Projedir
+# Boyyem Silo Miktar Projesi (React)
